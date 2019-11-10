@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/3_2d mem game.unity
+  isLoaded: 1
+  isActive: 1
